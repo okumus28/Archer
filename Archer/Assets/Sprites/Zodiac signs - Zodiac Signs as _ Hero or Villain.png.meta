@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 67c6244dd4a55fe43987443cedd4023c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5544499953928525413
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_0
+  - first:
+      213: -8531524217772796173
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_3
+  - first:
+      213: -798248601103446612
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_4
+  - first:
+      213: -73257642127164709
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_5
+  - first:
+      213: 1833636153067200112
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_6
+  - first:
+      213: 1484325545975648376
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_7
+  - first:
+      213: 1682526848626905962
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_8
+  - first:
+      213: -1058122584113933912
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_9
+  - first:
+      213: 2931226342196001953
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_10
+  - first:
+      213: -4449969930459556266
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_11
+  - first:
+      213: -2456165953242325014
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_12
+  - first:
+      213: 6002245334414358101
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_13
+  - first:
+      213: 868525366463759170
+    second: Zodiac signs - Zodiac Signs as _ Hero or Villain_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 404
+        width: 54
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99abecfaaafd03b0800000000000000
+      internalID: -5544499953928525413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 351
+        width: 177
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f692070defe99980800000000000000
+      internalID: -8531524217772796173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 395
+        width: 60
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadc6c8602d0ce4f0800000000000000
+      internalID: -798248601103446612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 358
+        width: 75
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda7de7009cbbfef0800000000000000
+      internalID: -73257642127164709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 383
+        width: 66
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e52eebd52627910800000000000000
+      internalID: 1833636153067200112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 354
+        width: 57
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8709ae24832699410800000000000000
+      internalID: 1484325545975648376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 392
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d6712149895710800000000000000
+      internalID: 1682526848626905962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 61
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1121dad1bc051f0800000000000000
+      internalID: -1058122584113933912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4
+        width: 69
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3cd2f3decda820800000000000000
+      internalID: 2931226342196001953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 45
+        width: 55
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d9c9dce78e32c0800000000000000
+      internalID: -4449969930459556266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 63
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef159f2412f9edd0800000000000000
+      internalID: -2456165953242325014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 47
+        width: 65
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556738494524c4350800000000000000
+      internalID: 6002245334414358101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac signs - Zodiac Signs as _ Hero or Villain_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3
+        width: 65
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430d7a183f9d0c00800000000000000
+      internalID: 868525366463759170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
